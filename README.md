@@ -4,7 +4,9 @@ The past, present, and future of the [Computer Fraud and Abuse Act](http://en.wi
 
 ### Current Law
 
-Read [18 USC § 1030 at Cornell](http://www.law.cornell.edu/uscode/text/18/1030).
+Read [18 USC § 1030](http://www.law.cornell.edu/uscode/text/18/1030).
+
+Sources: [Cornell LII's US Code](http://www.law.cornell.edu/uscode/text)
 
 ### Executive Interpretation
 
@@ -23,10 +25,11 @@ There are also some appearances of "18 U.S.C. 1030" [in executive notices](https
 * 2009, The [Patent Office's regulations](https://www.federalregister.gov/articles/2009/10/27/E9-25785/legal-framework-for-electronic-filing-system-web-efs-web) surrounding its [Electronic Filing System](http://www.uspto.gov/patents/process/file/efs/index.jsp) say "Please note that 18 U.S.C. 1030 imposes a duty on users not to intentionally cause damage to a federal government system."
 * 2008, The Energy Information Administration [asked for comments on how it delivers its weekly reports](https://www.federalregister.gov/articles/2008/10/15/E8-24487/solicitation-of-comments-on-the-process-and-technologies-used-for-disseminating-the-weekly-petroelum). The EIA is apparently besieged with crawlers attempting to find and download its weekly reports. The EIA says it wants to deliver the information freely and rapidly, but wants to protect itself from abuse. They provide a stern reminder "that EIA may report robot activity in accordance with its Security Policy" for prosecution under 18 USC 1030. Their [weekly reports](http://www.eia.gov/oil_gas/petroleum/data_publications/weekly_petroleum_status_report/wpsr.html) are not currently blocked in the EIA's [robots.txt](http://www.eia.gov/robots.txt).
 
+Sources: [FederalRegister.gov's advanced search](https://www.federalregister.gov/articles/search?#advanced), [Scout](https://scout.sunlightfoundation.com/)
 
 ### In the Courts
 
-On CourtListener, which searches a [wide variety](http://www.courtlistener.com/coverage/) of court opinions:
+On [CourtListener](http://www.courtlistener.com/), which searches a [wide variety](http://www.courtlistener.com/coverage/) of court opinions:
 
 * referencing ["18 U.S.C. 1030"](http://www.courtlistener.com/?q=%2218+u.s.c.+1030%22&refine=refine&sort=dateFiled+desc)
 * referencing ["computer fraud and abuse act"](http://www.courtlistener.com/?q=%22computer+fraud+and+abuse+act%22&refine=new&sort=dateFiled+desc)
@@ -40,6 +43,8 @@ CourtListener's [bulk data](http://www.courtlistener.com/dump-info/) is availabl
 * 1984, Title II, Chapter XXI of "Acquisition of Foreign Evidence Improvements Act". Pub. L. 98-473, 98 Stat. 2190. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-98/pdf/STATUTE-98-Pg1837.pdf), page 354
 * 1986, Amended by "Computer Fraud and Abuse Act of 1986". Pub. L. 99-474, 100 Stat. 1213. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-100/pdf/STATUTE-100-Pg1213.pdf)
 * 1989, Amended by "Enforcement Authority Improvements Act". Pub L. 101-73, 103 Stat. 183. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-103/pdf/STATUTE-103-Pg183.pdf), page 320
+
+Sources: [OLRC's Popular Names Table](http://uscodebeta.house.gov/popularnames/popularnames.htm), [GPO's Statutes at Large Collection](http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=STATUTE)
 
 ... to be continued ...
 
