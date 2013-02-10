@@ -37,17 +37,9 @@ CourtListener's [bulk data](http://www.courtlistener.com/dump-info/) is availabl
 
 ### Legislative History
 
-1. **1984**, Title II, Chapter XXI of "Acquisition of Foreign Evidence Improvements Act"
-Pub. L. 98-473, 98 Stat. 2190
-Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-98/pdf/STATUTE-98-Pg1837.pdf), page 354
-
-2. **1986**, Amended by "Computer Fraud and Abuse Act of 1986"
-Pub. L. 99-474, 100 Stat. 1213
-Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-100/pdf/STATUTE-100-Pg1213.pdf)
-
-3. **1989**, Amended by "Enforcement Authority Improvements Act"
-Pub L. 101-73, 103 Stat. 183
-Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-103/pdf/STATUTE-103-Pg183.pdf), page 320
+* 1984, Title II, Chapter XXI of "Acquisition of Foreign Evidence Improvements Act". Pub. L. 98-473, 98 Stat. 2190. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-98/pdf/STATUTE-98-Pg1837.pdf), page 354
+* 1986, Amended by "Computer Fraud and Abuse Act of 1986". Pub. L. 99-474, 100 Stat. 1213. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-100/pdf/STATUTE-100-Pg1213.pdf)
+* 1989, Amended by "Enforcement Authority Improvements Act". Pub L. 101-73, 103 Stat. 183. Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-103/pdf/STATUTE-103-Pg183.pdf), page 320
 
 ... to be continued ...
 
@@ -57,4 +49,4 @@ Original text: [PDF](http://www.gpo.gov/fdsys/pkg/STATUTE-103/pdf/STATUTE-103-Pg
 * [FederalRegister.gov](https://www.federalregister.gov/) provides alerts on all executive branch activity.
 * [Scout](https://scout.sunlightfoundation.com/) provides alerts on federal legislation, regulation, speeches in Congress, and GAO Reports.
 
-@konklone has created a [combined alert on the CFAA](https://scout.sunlightfoundation.com/user/konklone/cfaa) that brings together data on multiple search terms from each of CourtListener and Scout. Suggestions for additional things to add are welcome.
+[@konklone](https://github.com/konklone) has created a [combined alert on the CFAA](https://scout.sunlightfoundation.com/user/konklone/cfaa) that brings together data on multiple search terms from each of CourtListener and Scout. Suggestions for additional things to add are welcome.
